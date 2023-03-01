@@ -1,0 +1,2 @@
+# bogglegame
+In this exercise, I practiced Flask a little bit more. It was a great way to gain experience using Flask with AJAX. It was a great way to learn how to transfer data from the front end to the back end, and vice versa. Since the main goal was practicing Flask Testing, I made sure to keep in mind to divide each function into each method to keep functions reusable. Always, trying to write user-friendly applications. 
